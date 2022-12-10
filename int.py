@@ -1,4 +1,4 @@
-contact={"Mohit":700718923, "Anshu":8409675604, "Aditya":7899623412, "Karan":7845128956, "Ankesh":9304580938, "Rocky":6205254781, "Rohit":9865327814}
+contact={"Mohit":700718923, "":8409675604, "Aditya":7899623412, "Karan":7845128956, "Ankesh":9304580938, "Rocky":6205254781, "Rohit":9865327814}
 numberlist=[]
 
 for i in contact:
